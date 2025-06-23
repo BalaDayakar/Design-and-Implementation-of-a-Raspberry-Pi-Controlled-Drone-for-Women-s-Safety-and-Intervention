@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-a-Raspberry-Pi-Controlled-Drone-for-Women-s-Safety-and-Intervention
+Here’s a concise 350-character GitHub description:  > An autonomous drone system using Raspberry Pi, SIM800L, and GPS for women’s safety. Receives SOS via SMS, navigates to the location, triggers a siren, and returns. Features real-time GPS tracking, relay control, and future-ready AI integration for smart threat detection and surveillance.
